@@ -1,0 +1,19 @@
+macro_0: (9@ of beer)
+macro_1: ( on the wall)
+macro_2: (Take one down and pass it around, )
+macro_3: (bottle of beer)
+macro_4: (0@1@)
+
+macro_5: (#b1+?#)
+macro_6: (, )
+macro_7: (1 )
+macro_8: (. \n)
+macro_9: ( bottles)
+
+
+5@4@6@5@0@8@
+2@9@4@8@
+
+
+7@3@1@6@7@3@8@
+2@'no more'4@!

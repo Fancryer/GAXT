@@ -1,0 +1,17 @@
+1   2   Greater
+If
+    4   2   Add
+    Then
+    5   6   Equal
+    If
+        3   PrintInt
+        Then
+        4   7   Less
+        If
+            4   PrintInt
+            Then
+            7   PrintInt
+        fI
+    fI
+fI
+Finish

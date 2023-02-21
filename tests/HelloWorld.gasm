@@ -1,0 +1,12 @@
+G 2 Add PrintChar
+C Add 1 Subtract PrintChar
+7 Add PrintChar PrintChar
+3 Add PrintChar
+G Subtract 3 Add PrintChar
+A Subtract 2 Subtract PrintChar
+J B Add 1 Subtract PrintChar
+8 Subtract PrintChar
+3 Add PrintChar
+6 Subtract PrintChar
+8 Subtract PrintChar
+F Subtract 7 Subtract PrintChar Finish
